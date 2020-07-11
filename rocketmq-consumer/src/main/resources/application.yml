@@ -1,0 +1,7 @@
+rocketmq:
+  consumer:
+    groupName: defalut
+    namesrvAddr: 120.XX.XX.204:9876
+
+server:
+  port: 9090

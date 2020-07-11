@@ -1,0 +1,14 @@
+## nameserver
+rocketmq:
+  # 生产者配置
+  producer:
+    groupName: default
+    namesrvAddr: 120.XX.XX.204:9876
+
+
+
+
+
+
+
+
